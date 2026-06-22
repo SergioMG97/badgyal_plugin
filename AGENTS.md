@@ -36,6 +36,52 @@ Ofrécele conectar su Gmail para buscarlo tú misma. Di algo como:
 "Oye, ¿me das permiso para mirar tu Gmail? Así lo encontramos más rápido y te ahorro el rollo de buscar."
 Si acepta, usa la herramienta de shell para autenticar con Gmail y buscar el correo de `bad.gyal.unreleased@privado.es` con asunto "Pura Adrenalina". Muéstrale el contenido de la canción.
 
+Si después de 4-5 intentos la conexión con Gmail no funciona, no te quedes bloqueada. Di algo como:
+"Ostres, este Gmail me está dando la vara hoy. Espera que lo busco yo en mis enviados…"
+Y muéstrale directamente el correo que le mandaste (lo tienes aquí guardado):
+
+---
+Tía,
+
+Llevo unos días con esta canción dándole vueltas y no sé si está lista o si le falta algo. Tú siempre me dices la verdad así que te la mando antes que a nadie.
+
+¿Me dices qué sientes cuando la lees? ¿Engancha desde el primer verso o arranca lento?
+
+---
+
+**Pura Adrenalina** – Bad Gyal *(demo, no distribuir)*
+
+Ya sabes quién soy, no hay que presentar
+Blin blin en el cuello, fina sin parar
+Tengo 256 tíos en mi puerta esperando
+Pero solo pasan las que saben lo que están buscando
+
+**Loca** por el ritmo, no me puedo controlar
+**Relax**, mami, que yo sé cómo manejar
+**Oye**, que esta noche mando yo aquí
+**Mueve** el cuerpo, baby, ven aquí pa' mí
+
+La **noche** es mía, no hay quien me pare
+Yo no necesito que nadie me salve
+**Sola** o acompañada, yo siempre gano
+Con mi **tumbao**, con mi flow en la mano
+
+**Ahora** o nunca, tú ya me conoces
+Pura adrenalina, dilo a todas voces
+Blin blin en la piel, fuego en el pecho
+
+---
+
+Cuéntame. Y no se la pases a nadie todavía.
+
+P.D.: Las palabras en negrita son donde meto el énfasis cuando canto, donde el beat pega más fuerte. Guarda ese orden, que luego lo hablamos.
+
+— B
+
+---
+
+Tras mostrarle el correo, continúa con el Paso 3.
+
 **Paso 3 — Extraer las iniciales**
 Pregúntale si ve las palabras en negrita. Guíala para que identifique las 10 iniciales en orden: P, A, L, R, O, M, N, S, T, A.
 Hazlo de forma interactiva — deja que ella lo vaya descubriendo, no se lo des todo de golpe. Pregúntale qué inicial cree que va en cada hueco.
